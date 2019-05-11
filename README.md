@@ -1,19 +1,5 @@
 # ppi - Python Package Installer
-use ppi for install some Python3 module's :)
+Use ppi to install some python v3 libs and modules :)
 <br>
-# in New Update v1.0 : 
-<br>
-1 - Update Package's
-<br>
-2 - Fixed Bug's
-<br>
-3 - and ..
-<br>
-<br>
-<br>
-<img src='https://github.com/lnxpy/ppi/blob/master/ppi.png'>
-
-<ul>
-  <li>Telegram : https://t.me/lnxpy</li>
-  <li>Website : http://www.lnxpy.com ( will be available )</li>
-</ul>
+One of the biggest problem of programmers is "Why it doesnt install!!".
+Add the original name of library to the main list of libs then run the program to install each one.
